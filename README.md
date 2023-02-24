@@ -9,3 +9,5 @@ I completed this exercise based on Jupyter notebook, so [fetch_rewards_test.ipyn
 For third part, answers are in the PART 3 of [fetch_rewards_test.ipynb](fetch_rewards_test.ipynb). 
 
 Use Jupyter notebook might be not friendly to  non-technical stakeholders, but I include some explanations and charts to make it easy to read. 
+
+Email: kwu93@wisc.edu
